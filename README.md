@@ -55,9 +55,9 @@
 
 ---
 
-## 🚀 现在在做
+## 🚀 主导过的项目
 
-**AtomForm · 消费级多色 3D 打印机 App**（2025.03 ~ 至今）
+**消费级多色 3D 打印机 App**（AtomForm）
 
 - MQTT 弱网治理
 - 双端原生模型预览渲染（Android OpenGL ES + OSG / iOS Metal + SceneKit）
